@@ -23,7 +23,7 @@ body::before {
 
 @media only screen and (max-width: 768px) {
    body::before{
-     background: #040404 url(none);
+     background: #040404 url("none.png");
    }
 }
 
